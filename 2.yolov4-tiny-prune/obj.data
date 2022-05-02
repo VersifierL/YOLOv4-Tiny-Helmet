@@ -1,0 +1,5 @@
+classes = 2
+train  = C:/Users/guoyiyu/Desktop/hat_set2/train.txt
+valid  =C:/Users/guoyiyu/Desktop/hat_set2/test.txt
+names = C:/Users/guoyiyu/Desktop/hat_set2/obj.names
+backup = C:/Users/guoyiyu/Desktop/paper_experiment/backup

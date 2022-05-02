@@ -1,0 +1,38 @@
+
+
+#title{
+	position: absolute;
+	width: 60%;
+	height: 10%;
+	top: 0;
+	left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #8ECFC9;
+}
+
+#d1{
+	position: absolute;
+	width: 60%;
+	height: 60%;
+	top: 10%;
+	left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #888888;
+
+}
+
+#d2{
+	position: absolute;
+	width: 60%;
+	height: 10%;
+	top: 70%;
+	left: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #999999;
+}
